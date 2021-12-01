@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\bin\Debug\Mills Skating Rank.exe.config
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\bin\Debug\Mills Skating Rank.exe
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\bin\Debug\Mills Skating Rank.pdb
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\bin\Debug\Mills Skating Rank.xml
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.vbproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills_Skating_Rank.Resources.resources
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.exe
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.xml
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills Skating Rank.pdb
+C:\Users\dell\source\repos\Mills Skating Rank\Mills Skating Rank\obj\Debug\Mills_Skating_Rank.frmMain.resources
