@@ -1,25 +1,25 @@
 ﻿Public Class frmMain
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        For scores As Integer = 0 To 10
-            lstScoresBox.Items.Add(scores.ToString)
-        Next scores
+        For intScores As Integer = 0 To 10
+        lstScoresBox.Items.Add(intScores.ToString)
+    Next intScores
         lstScoresBox.SelectedIndex = 0
     End Sub
 
     Private Sub btnRecordScore_Click(sender As Object, e As EventArgs) Handles btnRecordScore.Click
-        Dim currentScore, totalScore As Integer
-        Dim averageScore As Decimal
-        Static numberOfScores As Integer
+    Dim intCurrentScore, intTotalScore As Integer
+    Dim decAverageScore As Decimal
+    Static intNumberOfScores As Integer
 
-        currentScore = lstScoresBox.SelectedIndex
-        totalScore = currentScore + lstScoresBox.SelectedIndex
+    intCurrentScore = lstScoresBox.SelectedIndex
+    intTotalScore = intCurrentScore + lstScoresBox.SelectedIndex
 
-        numberOfScores += 1
-        averageScore = totalScore / numberOfScores
+    intNumberOfScores += 1
+    decAverageScore = intTotalScore / intNumberOfScores
 
-        lblTotalScore.Text = totalScore.ToString
-        lblNumberOfScores.Text = numberOfScores.ToString("n0")
-        lblAverageScores.Text = averageScore.ToString
+    lblTotalScore.Text = intTotalScore.ToString
+    lblNumberOfScores.Text = intNumberOfScores.ToString("n0")
+    lblAverageScores.Text = decAverageScore.ToString
     End Sub
 
     Private Sub btnNextSkater_Click(sender As Object, e As EventArgs) Handles btnNextSkater.Click
